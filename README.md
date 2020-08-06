@@ -1,5 +1,5 @@
 # Code-Overflow
-# Code-Overflow is an event conducted by Linux and Open Source Community for fostering the interest of students in programming and open source. 
+Code-Overflow is an event conducted by Linux and Open Source Community for fostering the interest of students in programming and open source. 
 
 Beginners are advised to start with competitive programming to get the vibe of coding and to develop a knack for problem solving. 
 Once a certain criteria is met and you feel comfortable with coding, you can start developing small projects to hone your skills. 
